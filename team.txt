@@ -1,6 +1,6 @@
 Proyecto:
 Aplicación de perfiles del equipo
-Versión: 1.0
+Versión: 2.0 - Nueva arquitectura
 
 Integrantes:
 1. Daniel Fernando Barón Pineda
