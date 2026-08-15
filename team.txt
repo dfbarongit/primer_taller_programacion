@@ -1,4 +1,6 @@
-Equipo de Desarrollo
+Proyecto:
+Aplicación de perfiles del equipo
+Versión: 1.0
 
 Integrantes:
 1. Daniel Fernando Barón Pineda
